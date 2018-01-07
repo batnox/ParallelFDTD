@@ -1,0 +1,1 @@
+qsub -l walltime=02:00:00 -d ~/exec/256_guided_block_8_thread_30 ~/exec256_guided_block_8_thread_30/jobscript
